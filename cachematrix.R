@@ -3,7 +3,7 @@
 ## the second function cacheSolve computes the inverse of the special "matrix" 
 ## returned by makeCacheMatrix. If the inverse has already 
 ## been calculated (and the matrix has not changed), then cacheSolve 
-## should retrieve the inverse from the cache..
+## should retrieve the inverse from the cache.
 
 
 ## creates a special "matrix", which is a list containing a function to
