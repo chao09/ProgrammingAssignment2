@@ -6,7 +6,7 @@
 ## should retrieve the inverse from the cache.
 
 
-## creates a special "matrix", which is a list containing a function to
+## creates a special "matrix", which is a list containing functions to
 ## set the value of the matrix
 ## get the value of the matrix
 ## set the value of the inverse
